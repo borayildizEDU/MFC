@@ -47,11 +47,8 @@ Temporary Items
 .apdisk
 
 # My Ignore List
-MFCApplication1/Debug/*
-MFCApplication1/MFCApplication1.VC.db
-MFCApplication1/MFCApplication1.sdf
-MFCApplication1/ipch/*
-MFCApplication1/MFCApplication1/MFCApplication1.aps
-MFCApplication1/MFCApplication1/Debug/*
-MFCApplication1/MFCApplication1/res/*
-MFCApplication1/MFCApplication1/UserImages.bmp
+MFCApplication1/*
+MFCPane/*
+MFCTreeView/*
+MFCApplication2(Empty)/*
+
